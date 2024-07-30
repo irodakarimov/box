@@ -1,0 +1,221 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;    
+}
+
+.ota1 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+}
+
+.ota1 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+
+.ota2 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: start;
+}
+
+.ota2 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.ota3 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ota3 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+
+.ota4 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ota4 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.doda1 {
+    display: flex;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+
+.ota5 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+}
+
+.ota5 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.ota6 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: end;
+}
+
+.ota6 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+
+.ota7 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.ota7 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.ota8 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ota8 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.doda2 {
+    display: flex;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+.ota9 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+}
+
+.ota9 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.ota10 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
+
+.ota10 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.ota11 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.ota11 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.ota12 {
+    width: 300px;
+    height: 270px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ota12 div {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.doda3 {
+    display: flex;
+    gap: 50px; 
+}
